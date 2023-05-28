@@ -30,9 +30,15 @@ h2 {
 img {
   max-width: 30%;
 }
+.blog {
+  margin: 40px auto;
+}
 
 .blog-one {
   background-image: url(images/snowyWalk.jpg);
+}
+.blog-two {
+  background-image: url(images/Blossom.jpg);
 }
 
 .blog-content {
@@ -40,7 +46,7 @@ img {
   max-width: 70%;
   display: block;
   margin: 0 auto;
-  padding-top: 20px;
+  padding-top: 50px;
   padding-bottom: 20px;
 }
 
