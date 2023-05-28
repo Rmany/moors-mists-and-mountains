@@ -1,0 +1,67 @@
+body {
+  font-family: "Petrona", serif;
+  background: linear-gradient(181deg, #34414d 25%, #d7e5f3 90%);
+}
+
+h1 {
+  background-image: url(images/beachSunset.png);
+
+  font-size: 175px;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 160px;
+  padding-bottom: 60px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: "Shrikhand", cursive;
+  text-shadow: 1px 4px 10px rgba(0, 0, 0, 0.37);
+}
+
+h2 {
+  font-size: 60px;
+  font-weight: 900px;
+  padding-bottom: 60px;
+  color: #869dad;
+  text-align: center;
+  text-shadow: 1px 4px 5px rgba(0, 0, 0, 0.37);
+}
+
+img {
+  max-width: 30%;
+}
+
+.blog-one {
+  background-image: url(images/snowyWalk.jpg);
+}
+
+.blog-content {
+  background-color: antiquewhite;
+  max-width: 70%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.blog-content h3 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  color: #07080a;
+}
+
+.blog-content p {
+  text-align: left;
+  font-size: 24px;
+  margin: 20px auto;
+  max-width: 80%;
+}
+
+.blog-content img {
+  display: block;
+  margin: 0 auto;
+  border: solid white;
+  border-width: 10px 10px 50px 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+}
